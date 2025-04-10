@@ -5,6 +5,22 @@ Um jogo de adivinhação baseado em Pokémon da primeira geração, inspirado no
 
 Bem-vindo ao jogo **"Não é cópia do Pokedle"**, um desafio onde você deve adivinhar o Pokémon secreto com base em dicas como tipo, cor, peso, altura e habilidades!
 
+## 🧠 Como o jogo foi feito
+Esse jogo tipo Pokedle foi desenvolvido em Python com o objetivo de treinar lógica de programação, consumo de API e organização de código.
+
+## 🛠️ Principais tecnologias usadas
+Python 3: linguagem principal.
+
+API REST - PokeAPI: utilizada para buscar dados reais dos Pokémons.
+
+Módulo requests: para realizar as requisições HTTP.
+
+Módulo random: para sortear o Pokémon secreto.
+
+Listas e dicionários: fundamentais para manipular e comparar os atributos dos Pokémons.
+
+
+
 ## 🎮 Como jogar
 
 1. Execute o jogo com `poke.py`
