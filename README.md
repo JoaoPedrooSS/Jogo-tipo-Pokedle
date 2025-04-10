@@ -7,7 +7,7 @@ Bem-vindo ao jogo **"Não é cópia do Pokedle"**, um desafio onde você deve ad
 
 ## 🎮 Como jogar
 
-1. Execute o jogo com `codigo.py`
+1. Execute o jogo com `poke.py`
 2. Um Pokémon secreto será escolhido aleatoriamente.
 3. Você deve digitar o nome de um Pokémon da primeira geração.
 4. O jogo comparará os atributos do Pokémon digitado com o Pokémon secreto e exibirá dicas.
@@ -61,5 +61,5 @@ Bem-vindo ao jogo **"Não é cópia do Pokedle"**, um desafio onde você deve ad
 pip install requests
 
 # Execute o jogo
-python nome_do_arquivo.py
+python poke.py
 
