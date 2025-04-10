@@ -44,13 +44,13 @@ Bem-vindo ao jogo **"Não é cópia do Pokedle"**, um desafio onde você deve ad
 ## 🖼️ Screenshots
 
 ### Tela inicial
-> _Adicione aqui uma imagem do jogo sendo iniciado_
+![telainicial](imgs/telainicial.jpg)
 
 ### Tentativa de palpite
-> _Adicione aqui uma imagem da interface com uma tentativa de adivinhação_
+![palpite](imgs/palpite.jpg)
 
 ### Acerto!
-> _Adicione aqui uma imagem da mensagem de vitória_
+![acerto](imgs/acerto.jpg)
 
 ---
 
